@@ -39,7 +39,7 @@ Nexus OS is a high-performance, modern, and interactive admin dashboard built wi
 1. **Clone the repository:**
 ```bash
   git clone [https://github.com/YOUR_USERNAME/nexus-dashboard.git](https://github.com/YOUR_USERNAME/nexus-dashboard.git)
-   ```
+```
 ```bash
    npm install
 ```
