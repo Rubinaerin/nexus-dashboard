@@ -1,4 +1,5 @@
 # 🚀 Nexus OS: Next-Gen SaaS Management Dashboard
+[🚀 Live Demo](https://nexus-dashboard-tan.vercel.app/finans)
 
 Nexus OS is a high-performance, modern, and interactive admin dashboard built with **React 18** and **Tailwind CSS**. It provides businesses with a seamless interface to track financial data, manage customers, and monitor system performance in real-time.
 
